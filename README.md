@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hey there! My name is Murilo. I'm a 18-year-old and currently reside in Belém, Brasil.  I am a Computer Science student at Cesupa. Still new to the technology world, but willing to new more.</p>
+<p align="left">Hey there! My name is Murilo. I'm a 18-year-old and currently reside in Belém, Brasil.  I am a Computer Science student at Cesupa. Still new to the technology world, but willing to know more.</p>
 
 ###
 
