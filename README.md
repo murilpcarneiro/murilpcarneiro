@@ -48,5 +48,6 @@
 
 <br clear="both">
 
+![snake gif](https://github.com/murilpcarneiro/murilpcarneiro/blob/output/github-snake-dark.svg)
 
 ###
