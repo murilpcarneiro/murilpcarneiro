@@ -12,6 +12,7 @@
 <img align="right" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWt4YWtpYnNnOXJ0dDR1YWNlOGkzNWJlbnRwdTZzYmZwZ2o1NXFvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"/>
 
 ###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="12" />
@@ -26,11 +27,6 @@
 
 ###
 
-<br>
-<br>
-<br>
-<br>
-<br>
 <div align="left">
   <a href="https://www.instagram.com/murilopcarneiro_/">
   <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="50" alt="instagram logo"  />
