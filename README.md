@@ -29,7 +29,7 @@
 
 <div align="left">
   <a href="https://www.instagram.com/murilopcarneiro_/">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="50" alt="instagram logo"  />
+<img src="https://cdn.simpleicons.org/instagram/E4405F" height="50" alt="instagram logo"  />
   </a>
   
   <img width="12" />
@@ -41,8 +41,7 @@
   <img width="12" />
   
   <a href="https://www.linkedin.com/in/murilo-carneiro-908b8a2b4/">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" height="50" alt="linkedin logo"  />
-  </a>
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="50" alt="linkedin logo"  />
 </div>
 
 ###
