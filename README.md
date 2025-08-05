@@ -22,7 +22,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="50" alt="c logo"  />
 </div>
 
 ###
@@ -41,7 +41,7 @@
   <img width="12" />
   
   <a href="https://www.linkedin.com/in/murilo-carneiro-908b8a2b4/">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="50" alt="linkedin logo"  />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="50" alt="linkedin logo"  />
 </div>
 
 ###
