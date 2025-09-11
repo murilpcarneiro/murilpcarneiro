@@ -1,97 +1,65 @@
-<h1 align="center">Olá 👋! Meu nome é Murilo, sou desenvolvedor full-stack do Brasil 🇧🇷</h1>
-
-###
+<h1 align="center">Olá 👋! Meu nome é Murilo, sou desenvolvedor Full-Stack do Brasil 🇧🇷</h1>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=murilpcarneiro&theme=react&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilpcarneiro&theme=react&show_icons=true&hide_border=true&layout=compact" width="356px" alt="Top Languages" />
 </div>
 
-###
-
 ## Sobre Mim
-Sou um desenvolvedor full-stack com experiência em JavaScript, TypeScript, React, Python e mais. Meu foco é construir aplicações escaláveis, explorar novas tecnologias e entregar soluções eficientes para problemas reais no desenvolvimento web e mobile.
+Desenvolvedor Full-Stack focado no ecossistema TypeScript. Minha especialidade é construir APIs robustas com Node.js e interfaces de usuário dinâmicas com React/Next.js. Atualmente, estou aprofundando meus conhecimentos em infraestrutura como código (IaC) com Docker e otimização de queries em PostgreSQL para garantir escalabilidade e alta performance em aplicações web e mobile.
 
-###
+## Tech Stack
+Minhas principais tecnologias e ferramentas:
 
-<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWt4YWtpYnNnOXJ0dDR1YWNlOGkzNWJlbnRwdTZzYmZwZ2o1NXFvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding GIF" />
-
-###
-
-<div align="left">
-  <h2 align="center">Tecnologias & Ferramentas</h2>
-  <p>Frontend | Backend | Banco de Dados | Outros</p>
-  <p><strong>Frontend:</strong></p>
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
-  </div>
-  
-  <p><strong>Backend:</strong></p>
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" title="Express.js" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-  </div>
-  
-  <p><strong>Bancos de Dados & ORM:</strong></p>
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
-    <img width="12" />
-    <img src="https://img.shields.io/badge/Prisma-2F81F7?logo=prisma&logoColor=white" height="40" alt="Prisma" title="Prisma" />
-    <img width="12" />
-    <img src="https://raw.githubusercontent.com/drizzle-team/drizzle-orm/main/misc/readme/logo-github-sq-dark.svg" height="40" alt="Drizzle ORM" title="Drizzle ORM" />
-  </div>
-  
-  <p><strong>Outros:</strong></p>
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
-  </div>
-</div>
-
-###
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react-native&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM" />
+  <img src="https://img.shields.io/badge/Drizzle_ORM-6A38DA?style=for-the-badge&logo=drizzle&logoColor=white" alt="Drizzle ORM" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
 ## Projetos Destacados
-- **[Reflora – Sistema de Monitoramento Ambiental e Agrícola]** - Participei da equipe de desenvolvimento do Reflora, uma aplicação full-stack para monitoramento de parâmetros agrícolas em tempo real. O sistema captura dados de sensores (umidade do solo, temperatura, pH, condutividade elétrica e nutrientes como nitrogênio, fósforo e potássio), classificando-os como OK, Alerta ou Crítico. O backend, construído com Node.js e Express, armazena dados em PostgreSQL via Drizzle ORM, enquanto o frontend em React Native exibe dashboards e alertas automáticos para decisões rápidas no gerenciamento agrícola. (Tecnologias: React Native, Node.js, Express.js, PostgreSQL, TypeScript)  
-  - [Repositório Frontend](https://github.com/murilpcarneiro/reflora-app)  
-  - [Repositório Backend](https://github.com/murilpcarneiro/reflora)  
 
-- **[Clone McDonald's]** - Desenvolvi um clone do aplicativo McDonald's como projeto de prática de frontend, utilizando Next.js e Tailwind CSS. A aplicação simula a interface original, com design responsivo, navegação entre páginas e componentes reutilizáveis, proporcionando uma experiência de usuário moderna e consistente em dispositivos móveis e desktop. (Tecnologias: React.js, TypeScript, Next.js, Tailwind CSS, Prisma ORM)  
-  - [Repositório](https://github.com/murilpcarneiro/clone-McDonald-s)
+-   **[Reflora – Sistema de Monitoramento Ambiental e Agrícola]**
+    * **Problema:** Desenvolvi um sistema full-stack para auxiliar agricultores no monitoramento em tempo real de parâmetros essenciais do solo (umidade, temperatura, pH, nutrientes), visando otimizar a tomada de decisões e prevenir perdas de safra.
+    * **Minha Ação:** Como desenvolvedor backend, arquitetei e implementei a API RESTful em Node.js/Express para a ingestão e processamento de dados de sensores. Modelei o schema do banco de dados PostgreSQL e utilizei Drizzle ORM para garantir type-safety e performance nas operações. No frontend, contribuí na implementação dos dashboards em React Native que exibem esses dados e geram alertas automáticos.
+    * **Resultado:** A aplicação processa e visualiza dados em tempo real, permitindo aos usuários responder rapidamente a condições críticas do solo e gerenciar recursos de forma mais eficiente.
+    * **Tecnologias:** React Native, Node.js, Express.js, PostgreSQL, Drizzle ORM, TypeScript
+    * [Repositório Frontend](https://github.com/murilpcarneiro/reflora-app) | [Repositório Backend](https://github.com/murilpcarneiro/reflora)
 
-###
+-   **[Clone McDonald's (Estudo de Frontend Avançado)]**
+    * **Objetivo do Estudo:** Aprofundar e demonstrar minhas habilidades em desenvolvimento frontend moderno, focando em Server-Side Rendering (SSR), componentização e design responsivo utilizando Next.js 13+ (App Router) e Tailwind CSS.
+    * **Desafio Técnico:** O principal desafio foi gerenciar o estado global de um carrinho de compras complexo de forma eficiente e persistente, garantindo uma experiência de usuário fluida e otimizada para performance em diferentes dispositivos.
+    * **Aprendizado:** Este projeto consolidou minha expertise na arquitetura de aplicações Next.js para escalabilidade e performance, além de aprimorar minhas habilidades em estilização avançada com Tailwind CSS e na criação de interfaces de usuário intuitivas.
+    * **Tecnologias:** React.js, TypeScript, Next.js, Tailwind CSS, Prisma ORM (para simulação de dados)
+    * [Repositório](https://github.com/murilpcarneiro/clone-McDonald-s)
+    * [Deploy](https://clone-mc-donald-s-nine.vercel.app/fsw-donalds)
+
+## Redes Sociais & Contato
 
 <div align="left">
-  <h2 align="center">Redes Sociais & Contato</h2>
   <a href="https://www.instagram.com/murilopcarneiro_/">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram do Murilo Carneiro" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram do Murilo Carneiro" />
   </a>
-  <img width="12" />
   <a href="mailto:murilpcarneiro@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="E-mail do Murilo Carneiro" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail do Murilo Carneiro" />
   </a>
-  <img width="12" />
   <a href="https://www.linkedin.com/in/murilo-carneiro-908b8a2b4/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="40" alt="LinkedIn do Murilo Carneiro" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn do Murilo Carneiro" />
   </a>
 </div>
-
-###
 
 <br clear="both">
 
