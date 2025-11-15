@@ -1,15 +1,17 @@
-<h1 align="center">Olá 👋! Meu nome é Murilo, sou desenvolvedor Full-Stack do Brasil 🇧🇷</h1>
+<h1 align="center">Hi 👋! I'm Murilo, a Full-Stack Developer from Brazil 🇧🇷</h1>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=murilpcarneiro&theme=react&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilpcarneiro&theme=react&show_icons=true&hide_border=true&layout=compact" width="356px" alt="Top Languages" />
 </div>
 
-## Sobre Mim
-Desenvolvedor Full-Stack focado no ecossistema TypeScript. Minha especialidade é construir APIs robustas com Node.js e interfaces de usuário dinâmicas com React/Next.js. Atualmente, estou aprofundando meus conhecimentos em infraestrutura como código (IaC) com Docker e otimização de queries em PostgreSQL para garantir escalabilidade e alta performance em aplicações web e mobile.
+## About Me
+
+Full-Stack Developer specializing in the TypeScript ecosystem. I excel in building robust REST APIs with Node.js and creating dynamic user interfaces with React/Next.js. Currently, I'm deepening my expertise in Infrastructure as Code (IaC) with Docker and optimizing database queries in PostgreSQL to ensure scalability and high performance in web and mobile applications.
 
 ## Tech Stack
-Minhas principais tecnologias e ferramentas:
+
+My core technologies and tools:
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -30,34 +32,35 @@ Minhas principais tecnologias e ferramentas:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-## Projetos Destacados
+## Featured Projects
 
--   **[Reflora – Sistema de Monitoramento Ambiental e Agrícola]**
-    * **Problema:** Desenvolvi um sistema full-stack para auxiliar agricultores no monitoramento em tempo real de parâmetros essenciais do solo (umidade, temperatura, pH, nutrientes), visando otimizar a tomada de decisões e prevenir perdas de safra.
-    * **Minha Ação:** Como desenvolvedor backend, arquitetei e implementei a API RESTful em Node.js/Express para a ingestão e processamento de dados de sensores. Modelei o schema do banco de dados PostgreSQL e utilizei Drizzle ORM para garantir type-safety e performance nas operações. No frontend, contribuí na implementação dos dashboards em React Native que exibem esses dados e geram alertas automáticos.
-    * **Resultado:** A aplicação processa e visualiza dados em tempo real, permitindo aos usuários responder rapidamente a condições críticas do solo e gerenciar recursos de forma mais eficiente.
-    * **Tecnologias:** React Native, Node.js, Express.js, PostgreSQL, Drizzle ORM, TypeScript
-    * [Repositório Frontend](https://github.com/murilpcarneiro/reflora-app) | [Repositório Backend](https://github.com/murilpcarneiro/reflora)
+- **[Reflora – Environmental and Agricultural Monitoring System]**
 
--   **[Clone McDonald's (Estudo de Frontend Avançado)]**
-    * **Objetivo do Estudo:** Aprofundar e demonstrar minhas habilidades em desenvolvimento frontend moderno, focando em Server-Side Rendering (SSR), componentização e design responsivo utilizando Next.js 13+ (App Router) e Tailwind CSS.
-    * **Desafio Técnico:** O principal desafio foi gerenciar o estado global de um carrinho de compras complexo de forma eficiente e persistente, garantindo uma experiência de usuário fluida e otimizada para performance em diferentes dispositivos.
-    * **Aprendizado:** Este projeto consolidou minha expertise na arquitetura de aplicações Next.js para escalabilidade e performance, além de aprimorar minhas habilidades em estilização avançada com Tailwind CSS e na criação de interfaces de usuário intuitivas.
-    * **Tecnologias:** React.js, TypeScript, Next.js, Tailwind CSS, Prisma ORM (para simulação de dados)
-    * [Repositório](https://github.com/murilpcarneiro/clone-McDonald-s)
-    * [Deploy](https://clone-mc-donald-s-nine.vercel.app/fsw-donalds)
+  - **Challenge:** I developed a full-stack system to assist farmers in real-time monitoring of essential soil parameters (humidity, temperature, pH, nutrients), aiming to optimize decision-making and prevent crop losses.
+  - **My Action:** As a backend developer, I architected and implemented the RESTful API in Node.js/Express for sensor data ingestion and processing. I modeled the PostgreSQL database schema and utilized Drizzle ORM to ensure type-safety and performance in operations. On the frontend, I contributed to implementing React Native dashboards that display this data and generate automatic alerts.
+  - **Result:** The application processes and visualizes data in real-time, enabling users to quickly respond to critical soil conditions and manage resources more efficiently.
+  - **Technologies:** React Native, Node.js, Express.js, PostgreSQL, Drizzle ORM, TypeScript
+  - [Frontend Repository](https://github.com/murilpcarneiro/reflora-app) | [Backend Repository](https://github.com/murilpcarneiro/reflora)
 
-## Redes Sociais & Contato
+- **[McDonald's Clone (Advanced Frontend Study)]**
+  - **Study Objective:** Deepen and demonstrate my skills in modern frontend development, focusing on Server-Side Rendering (SSR), componentization, and responsive design using Next.js 13+ (App Router) and Tailwind CSS.
+  - **Technical Challenge:** The main challenge was efficiently managing a complex shopping cart's global state while ensuring persistence, guaranteeing a smooth user experience optimized for performance across different devices.
+  - **Learning:** This project solidified my expertise in architecting Next.js applications for scalability and performance, while enhancing my advanced Tailwind CSS styling skills and intuitive user interface creation.
+  - **Technologies:** React.js, TypeScript, Next.js, Tailwind CSS, Prisma ORM (for data simulation)
+  - [Repository](https://github.com/murilpcarneiro/clone-McDonald-s)
+  - [Live Demo](https://clone-mc-donald-s-nine.vercel.app/fsw-donalds)
+
+## Social Media & Contact
 
 <div align="left">
   <a href="https://www.instagram.com/murilopcarneiro_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram do Murilo Carneiro" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Murilo Carneiro's Instagram" />
   </a>
   <a href="mailto:murilpcarneiro@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail do Murilo Carneiro" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Murilo Carneiro's Email" />
   </a>
   <a href="https://www.linkedin.com/in/murilo-carneiro-908b8a2b4/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn do Murilo Carneiro" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Murilo Carneiro's LinkedIn" />
   </a>
 </div>
 
