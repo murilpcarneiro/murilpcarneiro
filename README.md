@@ -56,6 +56,9 @@ My core technologies and tools:
   <a href="https://www.instagram.com/murilopcarneiro_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Murilo Carneiro's Instagram" />
   </a>
+  <a href="https://www.youtube.com/@mirilodev">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Murilo Carneiro's YouTube" />
+  </a>
   <a href="mailto:murilpcarneiro@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Murilo Carneiro's Email" />
   </a>
