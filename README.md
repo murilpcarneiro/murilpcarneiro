@@ -18,8 +18,8 @@
 <br />
 
 <div align="center">
-  <img src="https://github.com/murilpcarneiro/murilpcarneiro/blob/main/profile-summary-card-output/tokyonight/0-profile-details.svg" height="180" alt="Profile Details" />
-  <img src="https://github.com/murilpcarneiro/murilpcarneiro/blob/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=murilpcarneiro&theme=transparent&bg_color=00000000&border_color=30363d&show_icons=true&icon_color=4c71f2&title_color=2f80ed&text_color=6e7681&hide_border=true&v=3" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murilpcarneiro&theme=transparent&bg_color=00000000&border_color=30363d&show_icons=true&icon_color=4c71f2&title_color=2f80ed&text_color=6e7681&hide_border=true&layout=compact&v=3" height="160" alt="Top Languages" />
 </div>
 
 <br />
