@@ -18,8 +18,12 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murilpcarneiro&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilpcarneiro&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="180" alt="Top Languages" />
+  <a href="https://github.com/murilpcarneiro">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilpcarneiro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/murilpcarneiro">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilpcarneiro&layout=compact&langs_count=8&theme=github_dark" />
+  </a>
 </div>
 
 <br />
