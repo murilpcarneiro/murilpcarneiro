@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou o Murilo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hand waving"></h1>
-  <h3>Full-Stack Developer | TypeScript Specialist | Node.js & React Ecosystem</h3>
+  <h3>CS Student | Full-Stack JS Specialist | TypeScript • Node.js • React</h3>
 
   <p>
     <a href="https://www.linkedin.com/in/murilo-carneiro-908b8a2b4/">
@@ -26,11 +26,13 @@
 
 ## 👨‍💻 Sobre Mim
 
-Desenvolvedor Full-Stack especializado no ecossistema **TypeScript**. Tenho facilidade em construir APIs REST robustas com Node.js e interfaces dinâmicas com React/Next.js.
+Estudante de **Ciência da Computação** em especialização **Full-Stack JavaScript**. Apaixonado pelo ecossistema moderno de desenvolvimento web, com foco em **TypeScript**, **Node.js**, **React** e ferramentas relacionadas.
 
-- 🔭 **Atualmente trabalhando em:** Otimização de queries PostgreSQL e Arquitetura de Software.
-- 🌱 **Estudando:** Infraestrutura como Código (Docker/Kubernetes) e Design Patterns avançados.
-- ⚡ **Foco:** Escalabilidade e alta performance em aplicações web e mobile.
+- 🎓 **Formação:** Ciência da Computação (em progresso)
+- 💼 **Experiência:** Desenvolvimento de projetos freelancer para ganhar experiência prática no mercado
+- 🌱 **Estudando:** Aprofundando conhecimentos através dos cursos da **Rocketseat**
+- 🎯 **Objetivo:** Construir portfólio sólido através de projetos práticos e estar preparado para ingressar no mercado de trabalho
+- ⚡ **Foco:** Full-Stack Development com JavaScript/TypeScript, escalabilidade e boas práticas de código
 
 ---
 
