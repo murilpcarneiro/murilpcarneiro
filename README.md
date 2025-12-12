@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou o Murilo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hand waving"></h1>
-  <h3>CS Student | Full-Stack JS Specialist | TypeScript • Node.js • React</h3>
+  <h3>CS Student | Full-Stack | TypeScript • Node.js • React</h3>
 
   <p>
     <a href="https://www.linkedin.com/in/murilo-carneiro-908b8a2b4/">
